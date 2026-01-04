@@ -36,6 +36,20 @@ It provides a seamless experience for Gmail users through a **browser extension*
 ![Web UI](https://github.com/Renish-R/replix-extension/blob/main/screenshots/web-ui.png)
 *Replix Web interface for users who don't want the extension.*
 
+### Web UI Edit
+![Web UI](https://github.com/Renish-R/replix-extension/blob/main/screenshots/web-ui-edit.png)
+*Replix Edit interface for users who use UI.*
+
+---
+
+## 🎥 Screen Recordings
+
+### 🌐 Web UI – Working Demo
+<video src="https://github.com/renish-r/replix-extension/blob/main/capture/ui.mp4" controls></video>
+
+### 📩 Gmail Extension – Working Demo
+<video src="https://github.com/renish-r/replix-extension/blob/main/capture/extension.mp4" controls></video>
+
 ---
 
 ## 🧰 Tools & Technologies
