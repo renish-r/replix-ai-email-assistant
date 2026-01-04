@@ -45,10 +45,15 @@ It provides a seamless experience for Gmail users through a **browser extension*
 ## 🎥 Screen Recordings
 
 ### 🌐 Web UI – Working Demo
-https://raw.githubusercontent.com/renish-r/replix-extension/main/capture/ui.mp4
+![Web UI Demo](https://raw.githubusercontent.com/renish-r/replix-extension/main/gif/ui.gif)
+*Short preview of Replix Web UI in action.*
+
+▶️ Full video: https://raw.githubusercontent.com/renish-r/replix-extension/main/capture/ui.mp4
 
 ### 📩 Gmail Extension – Working Demo
-https://raw.githubusercontent.com/renish-r/replix-extension/main/capture/extension.mp4
+![Gmail Extension Demo](https://raw.githubusercontent.com/renish-r/replix-extension/main/gif/extension.gif)
+
+▶️ Full video: https://raw.githubusercontent.com/renish-r/replix-extension/main/capture/extension.mp4
 
 ---
 
