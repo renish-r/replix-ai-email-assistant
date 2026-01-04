@@ -110,12 +110,6 @@ https://raw.githubusercontent.com/renish-r/replix-extension/main/capture/extensi
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## ❤️ Credits
 
 Developed by [**Renish R**](https://github.com/Renish-R)
