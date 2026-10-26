@@ -18,7 +18,7 @@ It provides a seamless experience for Gmail users through a **browser extension*
 ## 🔗 Demo & Links
 
 - **Web UI:** [https://replix-web.vercel.app/](https://replix-web.vercel.app/)  
-- **Chrome Extension:** [https://renish-r.github.io/replix-extension/](https://renish-r.github.io/replix-extension/)  
+- **Chrome Extension:** [https://chromewebstore.google.com/detail/agcggljbfakfmaijbgkpkhccomofkdck?utm_source=item-share-c](https://chromewebstore.google.com/detail/agcggljbfakfmaijbgkpkhccomofkdck?utm_source=item-share-cb)  
 
 ---
 
